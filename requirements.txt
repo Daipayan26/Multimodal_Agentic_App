@@ -3,6 +3,7 @@ langchain-groq
 flask
 sentence-transformers
 pypdf
+pymupdf 
 langchain-google-genai
 pinecone-client
 langchain-pinecone
