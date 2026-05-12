@@ -1,0 +1,13 @@
+langchain
+langchain-groq
+flask
+sentence-transformers
+pypdf
+langchain-google-genai
+pinecone-client
+langchain-pinecone
+langchain-community
+langgraph
+langchain-tavily
+langchain-text-splitters
+-e .
