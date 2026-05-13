@@ -1,5 +1,6 @@
 langchain
 langchain-groq
+langchain-huggingface
 flask
 sentence-transformers
 pypdf
